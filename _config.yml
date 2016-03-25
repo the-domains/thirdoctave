@@ -1,0 +1,28 @@
+name: thirdoctave
+favicon: null
+layout_spectrum: 0.30890366085805
+typography_spectrum: 0.4656753314193338
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.07406550808809698
+  lightness: 0.2659106170758605
+  saturation: 0.19121858198195696
+  rhythmicContrast: 0.5513345177751034
+purpose: []
